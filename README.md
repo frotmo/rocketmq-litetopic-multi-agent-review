@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # RocketMQ LiteTopic Multi-Agent Code Review
 
 A five-agent code review system built on **Apache RocketMQ 5.x LiteTopic** and the
