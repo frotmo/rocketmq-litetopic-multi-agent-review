@@ -1,0 +1,14 @@
+target/
+logs/
+reports/
+docs/
+.env
+.env.*
+!.env.example
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
+*.tar.gz
+*.zip
